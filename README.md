@@ -1,4 +1,4 @@
-# ITAP-COSC-3411-Gamma
+
 ## Integrated Command Line Python Calculator
 
 A menu-driven command-line calculator written in Python. This tool integrates basic arithmetic, trigonometric functions, unit conversions, and number system conversions into a single, colour-coded interface with history tracking.
